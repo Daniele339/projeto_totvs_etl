@@ -16,6 +16,9 @@ Diretórios:
 data/ → Dados de entrada
 output/ → Dados processados (saída do ETL)
 projeto_dio_totvs_etl/ → Organização do projeto
+
+
+
 💡 Funcionalidades
 
 O script main.py executa um processo completo de ETL:
