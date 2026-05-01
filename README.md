@@ -39,10 +39,13 @@ Após a transformação, os dados são exportados para o arquivo:
 output/resultado.csv
 
 💎 Melhorias Futuras
-Integração com APIs públicas externas
-Uso da API do ChatGPT para geração de mensagens mais inteligentes
-Implementação de testes automatizados (QA 👀)
-Validação de dados de entrada
+Integração com APIs públicas externas.
+Uso da API do ChatGPT para geração de mensagens mais inteligentes.
+Implementação de testes automatizados (QA 👀).
+Validação de dados de entrada.
+
+
+
 🕵️‍♀️ Sobre
 
 Olá! Eu sou Daniele Rodrigues Martins, bacharel em Engenharia da Computação pela UNIVESP (São Paulo).
