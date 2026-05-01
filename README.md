@@ -1,4 +1,6 @@
 💻 Projeto DIO - ETL com Python
+
+
 🎯 Objetivo
 
 Demonstrar, na prática, os conhecimentos adquiridos no curso Fundamentos de ETL (Extract, Transform, Load) com Python, da DIO.
@@ -14,6 +16,9 @@ Diretórios:
 data/ → Dados de entrada
 output/ → Dados processados (saída do ETL)
 projeto_dio_totvs_etl/ → Organização do projeto
+
+
+
 💡 Funcionalidades
 
 O script main.py executa um processo completo de ETL:
